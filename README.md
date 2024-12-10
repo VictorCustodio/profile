@@ -41,18 +41,6 @@ Sou um desenvolvedor com experiência em front-end e back-end, apaixonado por te
 
 ---
 
-## 🌟 Projetos Destacados
-
-### [Sistema de Gerenciamento para Provedores de Internet](#)
-- Utilizando **ExtJS**, **.NET**, e **PostgreSQL**.
-- Ferramentas para controle financeiro, RH, estoque e suporte técnico.
-
-### [Pacotes de Marketing Digital](#)
-- Configuração e gestão de **Google Meu Negócio**, **análise de perfis** e **sites**.
-- Criação de conteúdos visuais para pequenas e médias empresas.
-
----
-
 ## 🌐 Onde me Encontrar
 
 <p align="center">
